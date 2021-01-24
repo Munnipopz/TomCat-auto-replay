@@ -20,6 +20,6 @@ class Config:
 	
  TOKEN=os.environ.get("BOT_TOKEN",None)
  SOURCE="https://t..me/mpazaan"
- START_TEXT="Hi [{}](tg://user?id={})\nI am A Forward Tag remover Bot.Send /help To Know What I Can Do \n ©Artis7eeR"
+ START_TEXT="ʜɪ [{}](tg://user?id={})\nɪ ᴀᴍ ᴀ ꜰᴏʀᴡᴀʀᴅ ᴛᴀɢ ʀᴇᴍᴏᴠᴇʀ ʙᴏᴛ.ꜱᴇɴᴅ /ʜᴇʟᴘ ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪ ᴄᴀɴ ᴅᴏ \n ©̴M̴p̴a̴z̴a̴a̴n̴"
  HELP_TEXT="Forward Me A File,Video,Audio,Photo or Anything And \nI will Send You the File Back\n\n`How to Set Caption?`\nReply Caption to a File,Photo,Audio,Media"
 	
