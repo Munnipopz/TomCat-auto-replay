@@ -20,6 +20,6 @@ class Config:
 	
  TOKEN=os.environ.get("BOT_TOKEN",None)
  SOURCE="https://github.com/Munnipopz/TomCat-auto-replay"
- START_TEXT="ʜɪ [{}](tg://user?id={})\nɪ ᴀᴍ ᴀ ꜰᴏʀᴡᴀʀᴅ ᴛᴀɢ ʀᴇᴍᴏᴠᴇʀ ʙᴏᴛ.ꜱᴇɴᴅ /ʜᴇʟᴘ ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪ ᴄᴀɴ ᴅᴏ \n ©̴M̴p̴a̴z̴a̴a̴n̴"
+ START_TEXT="ʜɪ [{}](tg://user?id={})\nɪ ᴀᴍ ᴀ ꜰᴏʀᴡᴀʀᴅ ᴛᴀɢ ʀᴇᴍᴏᴠᴇʀ ʙᴏᴛ.ꜱᴇɴᴅ /help ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪ ᴄᴀɴ ᴅᴏ \n ©̴M̴p̴a̴z̴a̴a̴n̴"
  HELP_TEXT="ꜰᴏʀᴡᴀʀᴅ ᴍᴇ ᴀ ꜰɪʟᴇ,ᴠɪᴅᴇᴏ,ᴀᴜᴅɪᴏ,ᴘʜᴏᴛᴏ ᴏʀ ᴀɴʏᴛʜɪɴɢ ᴀɴᴅ \nɪ ᴡɪʟʟ ꜱᴇɴᴅ ʏᴏᴜ ᴛʜᴇ ꜰɪʟᴇ ʙᴀᴄᴋ\n`ʜᴏᴡ ᴛᴏ ꜱᴇᴛ ᴄᴀᴘᴛɪᴏɴ?`\nʀᴇᴘʟʏ ᴄᴀᴘᴛɪᴏɴ ᴛᴏ ᴀ ꜰɪʟᴇ,ᴘʜᴏᴛᴏ,ᴀᴜᴅɪᴏ,ᴍᴇᴅɪᴀ"
 	
